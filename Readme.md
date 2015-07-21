@@ -2,9 +2,12 @@
 
 ## Build Instructions
 
+Benchmarks in SPLASH2 are provided in binary format. Therefore, there is no
+need to compile this benchmark suite. 
+
 ## Disassembly and Emulation Support
 
-| Benchmark          | Disassembly     | Emulation	   |
+| Benchmark          | Disassembly     | Emulation     |
 |--------------------|-----------------|---------------|
 | Barnes             | not supported   | not supported |
 | Cholesky           | not supported   | not supported |
